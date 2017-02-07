@@ -1,7 +1,7 @@
 {
   "name": "promise-cache",
   "description": "tiny cache for promise producing functions",
-  "version": "1.0.0-SNAPSHOT",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "./cache.js",
   "author": {
@@ -12,8 +12,7 @@
     "type": "git",
     "url": "git@github.com:ProfessorEugene/promise-cache.git"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "node-release": "pulsepointinc/node-release#node-release-1.0.3",
     "chai": "3.3.0",
