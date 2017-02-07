@@ -1,7 +1,7 @@
 {
   "name": "promise-cache",
   "description": "tiny cache for promise producing functions",
-  "version": "1.0.0",
+  "version": "1.0.1-SNAPSHOT",
   "license": "MIT",
   "main": "./cache.js",
   "author": {
